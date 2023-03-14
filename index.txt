@@ -1,0 +1,3 @@
+i have generated ssh key for the practice
+no lines need
+::wq
